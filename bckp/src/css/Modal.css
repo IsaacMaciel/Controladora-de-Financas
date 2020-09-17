@@ -1,0 +1,18 @@
+.header-modal {
+    display:flex;
+    justify-content: space-between;
+    height: 20px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.text-header {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.modal-type {
+    margin-right: 10px;
+    margin-left: 10px;
+    padding: 20px;
+}

@@ -1,0 +1,15 @@
+.launch-container {
+    display:flex;
+    justify-content: space-between;
+    align-items: center ;
+
+    flex:1;
+}
+
+.actions-value,.infos {
+    display:flex;
+}
+
+.actions-value div,button {
+    margin-left: 10px;
+}
